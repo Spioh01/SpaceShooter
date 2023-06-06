@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 241b26807f704bf4ebd02c67006fb950, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 1
   rb: {fileID: 6854817147290073432}
   damage: 1
   explosionPrefab: {fileID: 3856903648090177135, guid: 2ee036bb9103f4f45b7b671dc4706977, type: 3}
@@ -109,7 +109,6 @@ MonoBehaviour:
   maxSpeed: 15
   maxRotateSpeed: 100
   powerUpSpawner: {fileID: 11400000, guid: 9c563d7ffcc3a1f458e335b599e684c2, type: 2}
-  meteorSpawnerPowerUp: {fileID: 0}
 --- !u!50 &6854817147290073432
 Rigidbody2D:
   serializedVersion: 4
